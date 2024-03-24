@@ -1,7 +1,10 @@
 # Fastag-Fraud-Detection
 ##🚫🕵️‍♂️ Fastag Transactions Fraud Detection Project 🛡️🔍  Welcome to the Fastag Transactions Fraud Detection project! 
 🚗💳  In this groundbreaking endeavor, I dive into the realm of machine learning to develop a robust system for detecting fraudulent activities in Fastag transactions. 
-          
+
+![Alt Text](https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/01/fastag-scam-1579673546.jpg)
+![Alt Text](https://media.licdn.com/dms/image/D4D12AQGhfq-cB7YqaQ/article-cover_image-shrink_720_1280/0/1697548878848?e=2147483647&v=beta&t=ExQNfkoedysP0-1RGD68g6Hw135FQUGg9lHG9kya5TA)
+
           Fastag has revolutionized toll payments, providing convenience and efficiency for millions of commuters. However, with the rise of digital transactions, the risk of    
           fraudulent activities has also increased. Our mission is to safeguard the integrity and security of Fastag transactions by leveraging cutting-edge machine learning  
           techniques.
@@ -49,3 +52,6 @@
     there's a role for you in our community. Let's work together to build a safer and more secure digital ecosystem for all. 💪🔒
 
 🛡️🔍💳 #FastagFraudDetection #MachineLearning #DataScience #FraudDetection #DigitalSecurity
+
+## Resources URL:- 
+https://www.ijraset.com/best-journal/fastag-fraud-detection
